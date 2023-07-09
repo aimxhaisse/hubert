@@ -1,7 +1,16 @@
 # Hubert
 
-## Goals
+Yet Another Coding Pal.
 
-- train a small model with good golang codebases,
-- provide tools to augment it with your custom codebases,
-- use it as a companion when coding.
+## Installation
+
+```
+poetry shell
+poetry install
+```
+
+## Usage
+
+```
+hubert
+```
